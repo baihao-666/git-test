@@ -5,5 +5,6 @@ public class gitTest {
         System.out.println("hello git");
         System.out.println("hello git2");
         System.out.println("hello git3   直接提交本地库");
+        System.out.println("hello git4 hot-fix");
     }
 }
